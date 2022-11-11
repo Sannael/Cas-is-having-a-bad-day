@@ -1,0 +1,972 @@
+fileFormatVersion: 2
+guid: f43aee9d25c35b04287d98ebb8a9c977
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8421436992988074156
+    second: "anima\xE7\xE3o fuma\xE7a_0"
+  - first:
+      213: -2022236227914136815
+    second: "anima\xE7\xE3o fuma\xE7a_1"
+  - first:
+      213: 1814572879974596567
+    second: "anima\xE7\xE3o fuma\xE7a_2"
+  - first:
+      213: -6424148274896656253
+    second: "anima\xE7\xE3o fuma\xE7a_3"
+  - first:
+      213: 7224983105241896693
+    second: "anima\xE7\xE3o fuma\xE7a_4"
+  - first:
+      213: 6285985331634662020
+    second: "anima\xE7\xE3o fuma\xE7a_5"
+  - first:
+      213: -9169034355408957561
+    second: "anima\xE7\xE3o fuma\xE7a_6"
+  - first:
+      213: -2752997787526055329
+    second: "anima\xE7\xE3o fuma\xE7a_7"
+  - first:
+      213: 2238129702185371598
+    second: "anima\xE7\xE3o fuma\xE7a_8"
+  - first:
+      213: -4644598395449028866
+    second: "anima\xE7\xE3o fuma\xE7a_9"
+  - first:
+      213: -2607563664156773338
+    second: "anima\xE7\xE3o fuma\xE7a_10"
+  - first:
+      213: -2853641126048046323
+    second: "anima\xE7\xE3o fuma\xE7a_11"
+  - first:
+      213: -7023798532380655235
+    second: "anima\xE7\xE3o fuma\xE7a_12"
+  - first:
+      213: 7039415968854308466
+    second: "anima\xE7\xE3o fuma\xE7a_13"
+  - first:
+      213: 3134261221284019793
+    second: "anima\xE7\xE3o fuma\xE7a_14"
+  - first:
+      213: -4769563883134434290
+    second: "anima\xE7\xE3o fuma\xE7a_15"
+  - first:
+      213: -4107794345412727897
+    second: "anima\xE7\xE3o fuma\xE7a_16"
+  - first:
+      213: 4992041014407947491
+    second: "anima\xE7\xE3o fuma\xE7a_17"
+  - first:
+      213: 2243607229457944112
+    second: "anima\xE7\xE3o fuma\xE7a_18"
+  - first:
+      213: 5683589109158584888
+    second: "anima\xE7\xE3o fuma\xE7a_19"
+  - first:
+      213: 5949289582974557863
+    second: "anima\xE7\xE3o fuma\xE7a_20"
+  - first:
+      213: 2633355621568571177
+    second: "anima\xE7\xE3o fuma\xE7a_21"
+  - first:
+      213: -4475292370316259020
+    second: "anima\xE7\xE3o fuma\xE7a_22"
+  - first:
+      213: 3656766446201253124
+    second: "anima\xE7\xE3o fuma\xE7a_23"
+  - first:
+      213: 7191545846028137461
+    second: "anima\xE7\xE3o fuma\xE7a_24"
+  - first:
+      213: 983985444918443673
+    second: "anima\xE7\xE3o fuma\xE7a_25"
+  - first:
+      213: 2787693607109622266
+    second: "anima\xE7\xE3o fuma\xE7a_26"
+  - first:
+      213: 6522829818329884784
+    second: "anima\xE7\xE3o fuma\xE7a_27"
+  - first:
+      213: -6966302698406199193
+    second: "anima\xE7\xE3o fuma\xE7a_28"
+  - first:
+      213: 7777761556280959847
+    second: "anima\xE7\xE3o fuma\xE7a_29"
+  - first:
+      213: -9026613925173780099
+    second: "anima\xE7\xE3o fuma\xE7a_30"
+  - first:
+      213: -8699403765012529586
+    second: "anima\xE7\xE3o fuma\xE7a_31"
+  - first:
+      213: -4767106576115281794
+    second: "anima\xE7\xE3o fuma\xE7a_32"
+  - first:
+      213: -6718693725667245514
+    second: "anima\xE7\xE3o fuma\xE7a_33"
+  - first:
+      213: -8913576065266705262
+    second: "anima\xE7\xE3o fuma\xE7a_34"
+  - first:
+      213: -2318380232147000778
+    second: "anima\xE7\xE3o fuma\xE7a_35"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45fac9e6cab012b80800000000000000
+      internalID: -8421436992988074156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_1"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1000
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 113804f6dd29fe3e0800000000000000
+      internalID: -2022236227914136815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_2"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df71f99b68ae2910800000000000000
+      internalID: 1814572879974596567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_3"
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 1000
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 388a85a3e27d8d6a0800000000000000
+      internalID: -6424148274896656253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 875
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f65428cadb444460800000000000000
+      internalID: 7224983105241896693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_5"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 875
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a6663ca5e4c3750800000000000000
+      internalID: 6285985331634662020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_6"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 875
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f0f7855db01c080800000000000000
+      internalID: -9169034355408957561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_7"
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 875
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ab21729136bc9d0800000000000000
+      internalID: -2752997787526055329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 750
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec782042b1f6f0f10800000000000000
+      internalID: 2238129702185371598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_9"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 750
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe49e21e521b8fb0800000000000000
+      internalID: -4644598395449028866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_10"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 750
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62438b4b9a210dbd0800000000000000
+      internalID: -2607563664156773338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_11"
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 750
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03e57dd384d568d0800000000000000
+      internalID: -2853641126048046323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d718a8fc274768e90800000000000000
+      internalID: -7023798532380655235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_13"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 625
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276f5c9f68701b160800000000000000
+      internalID: 7039415968854308466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_14"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 625
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e7ae789f12f7b20800000000000000
+      internalID: 3134261221284019793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_15"
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 625
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e044d342bea1fcdb0800000000000000
+      internalID: -4769563883134434290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_16"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abe05f8ece2ef6c0800000000000000
+      internalID: -4107794345412727897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_17"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 500
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e467f78ada474540800000000000000
+      internalID: 4992041014407947491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_18"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 500
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ec65753e4e22f10800000000000000
+      internalID: 2243607229457944112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_19"
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 500
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8322dac8e2a20ee40800000000000000
+      internalID: 5683589109158584888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_20"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 375
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae5123ea5f109250800000000000000
+      internalID: 5949289582974557863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_21"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 375
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9276fd65cfe8b8420800000000000000
+      internalID: 2633355621568571177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_22"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 375
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4319841ec4194e1c0800000000000000
+      internalID: -4475292370316259020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_23"
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 375
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40da46c55b17fb230800000000000000
+      internalID: 3656766446201253124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_24"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 250
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3717238d08dc360800000000000000
+      internalID: 7191545846028137461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_25"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 250
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99eb48c7c81d7ad00800000000000000
+      internalID: 983985444918443673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_26"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 250
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af9756ad090efa620800000000000000
+      internalID: 2787693607109622266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_27"
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 250
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078e0eb092fb58a50800000000000000
+      internalID: 6522829818329884784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_28"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76047a7da98b25f90800000000000000
+      internalID: -6966302698406199193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_29"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 125
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763e0d55de820fb60800000000000000
+      internalID: 7777761556280959847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_30"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 125
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d712c69c5760bb280800000000000000
+      internalID: -9026613925173780099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_31"
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 125
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e7bbcfd52854780800000000000000
+      internalID: -8699403765012529586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_32"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70583483d5d7ddb0800000000000000
+      internalID: -4767106576115281794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_33"
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63245f657a762c2a0800000000000000
+      internalID: -6718693725667245514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_34"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c9a577bcd9c4480800000000000000
+      internalID: -8913576065266705262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "anima\xE7\xE3o fuma\xE7a_35"
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 300
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6322790567573dfd0800000000000000
+      internalID: -2318380232147000778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

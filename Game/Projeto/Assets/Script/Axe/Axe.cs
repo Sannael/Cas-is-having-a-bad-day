@@ -1,0 +1,18 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Axe : MonoBehaviour
+{
+    public int damage = 30; //dano do machado
+    
+    void Start()
+    {
+        
+    }
+
+    void Update()
+    {
+        
+    }
+}
