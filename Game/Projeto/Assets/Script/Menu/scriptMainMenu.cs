@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class scriptMainMenu : MonoBehaviour
 {   
     public AudioSource aud; //Click nos botões
-    public Animator animTutorial, animQuit, gameAnim, txtGameAnim;
+    public Animator animTutorial, animQuit, gameAnim, txtGameAnim, backAnim;
 
     void Start()
     {
@@ -73,6 +73,7 @@ public class scriptMainMenu : MonoBehaviour
         yield return new WaitForSeconds(29.5f);
         gameAnim.SetBool("Fade Out", true);
         txtGameAnim.SetBool("Fade Out", true);
+        backAnim.SetBool("Fade Out", true);
         yield return new WaitForSeconds(0.5f);
         LoadScene(1); 
     }
@@ -81,6 +82,7 @@ public class scriptMainMenu : MonoBehaviour
     {
         gameAnim.SetBool("Fade Out", true);
         txtGameAnim.SetBool("Fade Out", true);
+        backAnim.SetBool("Fade Out", true);
         yield return new WaitForSeconds(0.5f);
         LoadScene(1);
     }
@@ -90,6 +92,7 @@ public class scriptMainMenu : MonoBehaviour
         yield return new WaitForSeconds(29.5f);
         gameAnim.SetBool("Fade Out", true);
         txtGameAnim.SetBool("Fade Out", true);
+        backAnim.SetBool("Fade Out", true);
         yield return new WaitForSeconds(0.5f);
         LoadScene(0); 
     }
@@ -97,6 +100,7 @@ public class scriptMainMenu : MonoBehaviour
     {
         gameAnim.SetBool("Fade Out", true);
         txtGameAnim.SetBool("Fade Out", true);
+        backAnim.SetBool("Fade Out", true);
         yield return new WaitForSeconds(0.5f);
         LoadScene(0);
     }
@@ -121,6 +125,7 @@ public class scriptMainMenu : MonoBehaviour
         yield return new WaitForSeconds(29.5f);
         gameAnim.SetBool("Fade Out", true);
         txtGameAnim.SetBool("Fade Out", true);
+        backAnim.SetBool("Fade Out", true);
         yield return new WaitForSeconds(0.5f);
         LoadScene(2);
     }
@@ -129,6 +134,7 @@ public class scriptMainMenu : MonoBehaviour
     {
         gameAnim.SetBool("Fade Out", true);
         txtGameAnim.SetBool("Fade Out", true);
+        backAnim.SetBool("Fade Out", true);
         yield return new WaitForSeconds(0.5f);
         LoadScene(2);
     }
