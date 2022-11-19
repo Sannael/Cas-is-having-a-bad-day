@@ -102,8 +102,10 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
+    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -338,8 +340,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 1622}
     - Class: 114
       Script: {instanceID: 1884}
-    - Class: 114
-      Script: {instanceID: 2402}
     - Class: 114
       Script: {instanceID: 2748}
     - Class: 114
@@ -838,7 +838,7 @@ ScriptsOnlyBuild:
     className: Shadow
   - hash:
       serializedVersion: 2
-      Hash: 9f08ee5f9b5348512085a5078c429ac7
+      Hash: 33fbc45710927b8321b042a9f1865fe1
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: scriptMainMenu
