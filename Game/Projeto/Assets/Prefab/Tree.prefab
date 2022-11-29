@@ -29,7 +29,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3147755632350415801}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.35, y: 0.05, z: 0}
+  m_LocalPosition: {x: -10.3, y: 0.05, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
@@ -150,6 +150,7 @@ MonoBehaviour:
   leafP: {fileID: 9112501521317889345, guid: 556dd6c52fd39a24ca2af0dd1e59be98, type: 3}
   woodDrop: {fileID: 7880664483921172451, guid: 61b282c1df1f97047868ce43652d2403, type: 3}
   ps: {fileID: 0}
+  anim: {fileID: 0}
   woodMin: 5
   woodMax: 10
   RespawningTime: 1

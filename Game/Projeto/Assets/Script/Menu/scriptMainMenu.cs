@@ -6,15 +6,27 @@ using UnityEngine.SceneManagement;
 public class scriptMainMenu : MonoBehaviour
 {   
     public AudioSource aud; //Click nos botões
-    public Animator animTutorial, animQuit, gameAnim, txtGameAnim;
+    public Animator animTutorial, animQuit, gameAnim, txtGameAnim, backAnim;
+    public bool screenWinTime = false; //esperar pra pular o game win (bug)
 
     void Start()
     {
+        if(SceneManager.GetActiveScene().name == "Game Win")
+        {
+            StartCoroutine(TimeToSkipGameWin());
+        }
+
     }
 
+    private IEnumerator TimeToSkipGameWin()
+    {
+        yield return new WaitForSeconds(5f);
+        screenWinTime = true;
+    }
     // Update is called once per frame
     void Update()
     {
+
         if(SceneManager.GetActiveScene().name == "Credits")
         {
             if(Input.GetKeyDown(KeyCode.Escape))
@@ -26,7 +38,7 @@ public class scriptMainMenu : MonoBehaviour
 
         if(SceneManager.GetActiveScene().name == "Game Win")
         {
-            if(Input.GetKeyDown(KeyCode.E))
+            if(Input.GetKeyDown(KeyCode.E) && screenWinTime == true)
             {
                 StartCoroutine(SkipToCredits());
             }
@@ -73,6 +85,7 @@ public class scriptMainMenu : MonoBehaviour
         yield return new WaitForSeconds(29.5f);
         gameAnim.SetBool("Fade Out", true);
         txtGameAnim.SetBool("Fade Out", true);
+        backAnim.SetBool("Fade Out", true);
         yield return new WaitForSeconds(0.5f);
         LoadScene(1); 
     }
@@ -81,6 +94,7 @@ public class scriptMainMenu : MonoBehaviour
     {
         gameAnim.SetBool("Fade Out", true);
         txtGameAnim.SetBool("Fade Out", true);
+        backAnim.SetBool("Fade Out", true);
         yield return new WaitForSeconds(0.5f);
         LoadScene(1);
     }
@@ -90,6 +104,7 @@ public class scriptMainMenu : MonoBehaviour
         yield return new WaitForSeconds(29.5f);
         gameAnim.SetBool("Fade Out", true);
         txtGameAnim.SetBool("Fade Out", true);
+        backAnim.SetBool("Fade Out", true);
         yield return new WaitForSeconds(0.5f);
         LoadScene(0); 
     }
@@ -97,6 +112,7 @@ public class scriptMainMenu : MonoBehaviour
     {
         gameAnim.SetBool("Fade Out", true);
         txtGameAnim.SetBool("Fade Out", true);
+        backAnim.SetBool("Fade Out", true);
         yield return new WaitForSeconds(0.5f);
         LoadScene(0);
     }
@@ -121,6 +137,7 @@ public class scriptMainMenu : MonoBehaviour
         yield return new WaitForSeconds(29.5f);
         gameAnim.SetBool("Fade Out", true);
         txtGameAnim.SetBool("Fade Out", true);
+        backAnim.SetBool("Fade Out", true);
         yield return new WaitForSeconds(0.5f);
         LoadScene(2);
     }
@@ -129,6 +146,7 @@ public class scriptMainMenu : MonoBehaviour
     {
         gameAnim.SetBool("Fade Out", true);
         txtGameAnim.SetBool("Fade Out", true);
+        backAnim.SetBool("Fade Out", true);
         yield return new WaitForSeconds(0.5f);
         LoadScene(2);
     }

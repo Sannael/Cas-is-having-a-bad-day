@@ -46,11 +46,25 @@ public class Wood : MonoBehaviour
     {   
         if(other.CompareTag("Axe") && ps.action == 2) //Só pode "atacar" a arvore com a interação
         {
+            StartCoroutine(Damage());
             treeDamage.Play();
             lifeWood--;
             leafParticle.Play();
         }  
     }
 
+    private IEnumerator Damage()
+    {
+        Vector3 pos = transform.position;
+        pos[0] += -0.03f;
+        transform.position = pos;
+        yield return new WaitForSeconds(0.1f);
+        pos[0] += 0.06f;
+        transform.position = pos;
+        yield return new WaitForSeconds(0.1f);
+        pos[0] += -0.03f;
+        transform.position = pos;
+
+    }
 
 }

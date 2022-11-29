@@ -6,6 +6,7 @@ public class Campfire : MonoBehaviour
 {
     
     public int Wood = 0; //contagem de madeira
+    private PauseMenu psMenu;
     private AudioSource campfireStart; // acendendo a fogueira
     [SerializeField]
     private PlayerScript ps;
@@ -25,6 +26,7 @@ public class Campfire : MonoBehaviour
     
     void Start()
     {
+        psMenu = GameObject.Find("/gameController").GetComponent<PauseMenu>();
         Dest = false;
         ps = GameObject.Find("/Player").GetComponent<PlayerScript>();
         campfireStart = GameObject.Find("/Sounds and musics/Campfire").GetComponent<AudioSource>();    
@@ -41,9 +43,12 @@ public class Campfire : MonoBehaviour
             {
                 if(ps.woodCount > 0)
                 {
-                    Wood ++;
-                    ps.woodCount --;
-                }
+                    if(psMenu.isPaused == false)
+                    {
+                        Wood ++;
+                        ps.woodCount --;
+                    }
+                }   
 
             }
         }
