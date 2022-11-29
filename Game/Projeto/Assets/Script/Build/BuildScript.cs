@@ -10,6 +10,7 @@ public class BuildScript : MonoBehaviour
     public int wood = 4;
 
     public PlayerScript wps;
+    private PauseMenu ps;
 
     public int GunCount;
 
@@ -20,7 +21,7 @@ public class BuildScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+        ps = GameObject.Find("/gameController").GetComponent<PauseMenu>();
         wps = GameObject.Find("/Player").GetComponent<PlayerScript>();
         GunCount = wps.gunCount;
     }
@@ -50,7 +51,10 @@ public class BuildScript : MonoBehaviour
                 {
                     if(wps.woodCount >= wood)
                     {
-                        BuildWall();
+                        if(ps.isPaused == false)
+                        {
+                            BuildWall();
+                        }
                     }
                         
                 }
@@ -84,7 +88,6 @@ public class BuildScript : MonoBehaviour
         }
         
     }
-
 
     void BuildWall()
     {

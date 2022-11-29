@@ -7,14 +7,26 @@ public class scriptMainMenu : MonoBehaviour
 {   
     public AudioSource aud; //Click nos botões
     public Animator animTutorial, animQuit, gameAnim, txtGameAnim, backAnim;
+    public bool screenWinTime = false; //esperar pra pular o game win (bug)
 
     void Start()
     {
+        if(SceneManager.GetActiveScene().name == "Game Win")
+        {
+            StartCoroutine(TimeToSkipGameWin());
+        }
+
     }
 
+    private IEnumerator TimeToSkipGameWin()
+    {
+        yield return new WaitForSeconds(5f);
+        screenWinTime = true;
+    }
     // Update is called once per frame
     void Update()
     {
+
         if(SceneManager.GetActiveScene().name == "Credits")
         {
             if(Input.GetKeyDown(KeyCode.Escape))
@@ -26,7 +38,7 @@ public class scriptMainMenu : MonoBehaviour
 
         if(SceneManager.GetActiveScene().name == "Game Win")
         {
-            if(Input.GetKeyDown(KeyCode.E))
+            if(Input.GetKeyDown(KeyCode.E) && screenWinTime == true)
             {
                 StartCoroutine(SkipToCredits());
             }

@@ -459,6 +459,7 @@ MonoBehaviour:
   gameAnim: {fileID: 246877007}
   txtGameAnim: {fileID: 1015776629}
   backAnim: {fileID: 2128348935}
+  screenWinTime: 0
 --- !u!4 &401403924
 Transform:
   m_ObjectHideFlags: 0
@@ -649,7 +650,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "Adeus casa. Adeus floresta. Adeus vida.                                                                     
-    Acabou para Cas. Os esp\xEDritos da floresta venceram o castor detruidor de \xE1rvores."
+    Acabou para Cas. Os esp\xEDritos da floresta venceram o castor destruidor de
+    \xE1rvores."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 3388144807432aa4b9faa63be24e9e99, type: 2}
   m_sharedMaterial: {fileID: 7066694067125633385, guid: 3388144807432aa4b9faa63be24e9e99, type: 2}
