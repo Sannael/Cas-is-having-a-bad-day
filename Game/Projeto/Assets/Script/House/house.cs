@@ -62,10 +62,6 @@ public class house : MonoBehaviour
             lampLeft.transform.position = new Vector3(-3.65f, -3f, 0f);
             lampRight.transform.position = new Vector3(2.6f, -3f, 0f);
         } 
-        else
-        {
-            SceneManager.LoadScene(1);
-        }
 
         if(houseLife == 25 && Dif == 0)
         {
@@ -105,7 +101,7 @@ public class house : MonoBehaviour
             SceneManager.LoadScene(3);
         }
         
-        if(houseLife == 100)
+        if(houseLife >= 100)
         {
             SceneManager.LoadScene(4);
         }

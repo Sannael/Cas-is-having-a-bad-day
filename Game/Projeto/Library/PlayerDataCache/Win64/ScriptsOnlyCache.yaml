@@ -102,10 +102,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -341,8 +339,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1884}
     - Class: 114
-      Script: {instanceID: 2402}
-    - Class: 114
       Script: {instanceID: 2748}
     - Class: 114
       Script: {instanceID: 5450}
@@ -390,6 +386,8 @@ ScriptsOnlyBuild:
     - Class: 82
       Script: {instanceID: 0}
     - Class: 83
+      Script: {instanceID: 0}
+    - Class: 84
       Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
@@ -496,11 +494,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 7034}
     - Class: 114
-      Script: {instanceID: 7684}
+      Script: {instanceID: 7686}
     - Class: 114
-      Script: {instanceID: 8016}
+      Script: {instanceID: 8018}
     - Class: 114
-      Script: {instanceID: 8274}
+      Script: {instanceID: 8276}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -516,6 +514,10 @@ ScriptsOnlyBuild:
     - Class: 223
       Script: {instanceID: 0}
     - Class: 224
+      Script: {instanceID: 0}
+    - Class: 328
+      Script: {instanceID: 0}
+    - Class: 329
       Script: {instanceID: 0}
     Assets/Scenes/Tutorial.unity:
     - Class: 1
@@ -561,7 +563,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 6596}
     - Class: 114
-      Script: {instanceID: 7468}
+      Script: {instanceID: 7470}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -696,23 +698,23 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 7000}
     - Class: 114
-      Script: {instanceID: 7086}
+      Script: {instanceID: 7036}
     - Class: 114
-      Script: {instanceID: 7182}
+      Script: {instanceID: 7088}
     - Class: 114
-      Script: {instanceID: 7432}
+      Script: {instanceID: 7184}
     - Class: 114
-      Script: {instanceID: 7572}
+      Script: {instanceID: 7434}
     - Class: 114
-      Script: {instanceID: 7688}
+      Script: {instanceID: 7574}
     - Class: 114
-      Script: {instanceID: 8332}
+      Script: {instanceID: 7690}
     - Class: 114
-      Script: {instanceID: 8438}
+      Script: {instanceID: 8334}
     - Class: 114
-      Script: {instanceID: 8476}
+      Script: {instanceID: 8440}
     - Class: 114
-      Script: {instanceID: 209390}
+      Script: {instanceID: 8478}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -840,7 +842,7 @@ ScriptsOnlyBuild:
     className: Shadow
   - hash:
       serializedVersion: 2
-      Hash: 9f08ee5f9b5348512085a5078c429ac7
+      Hash: a68870a972d6e43c2c9e9ff3d32dda37
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
     className: scriptMainMenu
@@ -2016,6 +2018,12 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: d789894359727d1dd2b1ea97be4ff568
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: LeafScript
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
@@ -2350,12 +2358,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.2D.IK.Runtime.dll
     namespaceName: UnityEngine.U2D.IK
     className: FabrikSolver2D
-  - hash:
-      serializedVersion: 2
-      Hash: d789894359727d1dd2b1ea97be4ff568
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: LeafScript
   platform: 19
   scenePathNames:
   - Assets/Scenes/Main Menu.unity

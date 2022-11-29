@@ -54,6 +54,7 @@ public class PlayerScript : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+
         tb = GameObject.Find("/ToolBox").GetComponent<ToolBox>();
         houseS = GameObject.Find("/====Environment===============/house_0").GetComponent<house>(); //salve script da house (caminho até ela)
 
